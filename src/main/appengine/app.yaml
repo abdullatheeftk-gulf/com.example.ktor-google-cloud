@@ -1,0 +1,3 @@
+runtime: java11
+# entrypoint: 'java -jar your_app_full_name-all.jar'
+entrypoint: 'java -jar com.example.ktor-google-cloud-all.jar'
